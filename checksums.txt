@@ -1,0 +1,3 @@
+4be26ab5937cd4afd1b4b43a4a346c43  legacy_consensus.min20.annotated.bed
+f2678f6aa51a86e6d7454a1a1311fc14  v5_native.min20.annotated.bed
+a2ed621833eb3b28d832f1d1a92e7813  v6_native.min20.annotated.bed
